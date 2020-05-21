@@ -1,0 +1,12 @@
+.banner {
+  background-image: url("../../images/NYC.jpg");
+  height: 100vh;
+  display: flex;
+  padding-top: 80px;
+  background-size: cover;
+}
+
+.banner h1, p {
+  color: rgba(30, 30, 30, 0.6);
+}
+
